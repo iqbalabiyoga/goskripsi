@@ -1,0 +1,2 @@
+# goskripsi
+repository skripsi inspiratif
