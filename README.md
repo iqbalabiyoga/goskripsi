@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # AdaFlorists - Sistem Jual Beli Tanaman Hias Online
 
 untuk :
@@ -37,3 +38,7 @@ Adaflorist dikembangkan menggunakan perangkat lunak aplikasi :
 AdaFlorist sudah dapat diakses melalui laman : http://adaflorist.hol.es
 dihosting menggunakan :
 India Hostinger
+=======
+# goskripsi
+repository skripsi inspiratif
+>>>>>>> 67f3e89e19c679f98d36fa69686a457ebe051fd7
